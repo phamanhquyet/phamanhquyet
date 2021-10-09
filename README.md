@@ -58,11 +58,12 @@
 
 </details>
 
-<!-- [website]: https://ic-mimi.web.app/
+<!-- [website]: https://ic-mimi.web.app/-->
+
 [youtube]: https://www.youtube.com/channel/UCnNTUocyXsml4m4FVTkcELA
-[instagram]: https://www.instagram.com/mimiicteam/
+
+<!-- [instagram]: https://www.instagram.com/mimiicteam/
 
 [linkedin]: https://linkedin.com/in/annaarsentieva
 
 [info]: https://ic-mimi.web.app/ -->
-"# phamanhquyet" 
