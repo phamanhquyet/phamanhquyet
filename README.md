@@ -6,11 +6,8 @@
 
 - ✍ You can find my projects <a href = "https://github.com/phamanhquyet/CoffeeManagement">here</a>
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning C++,C#,Java
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, MySQL
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I speak 2 languages ( English, Vietnamese )
 
 ### Talk with me, I am kinda awesome:
 
