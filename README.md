@@ -6,7 +6,7 @@
 
 - ✍ You can find my projects <a href = "https://github.com/phamanhquyet/CoffeeManagement">here</a>
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, MySQL
+- 🌱 I’m currently learning HTML, CSS, Javascript, Node.js, MySQL, Git
 - 😄 Pronouns: He/His
 
 ### Talk with me, I am kinda awesome:
