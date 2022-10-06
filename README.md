@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, Creator!!
 
-- ✍ You can find my projects here [INFO]
+- ✍ You can find my projects <a href = "https://github.com/phamanhquyet/CoffeeManagement">here</a>
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning C++,C#,Java
 - 👯 I’m looking to collaborate on open source
