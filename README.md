@@ -26,9 +26,9 @@
 
   <h3 align="left">Databases:</h3>
   <img align="center" alt="Quyet-Pham-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <h3 align="left">Tools:</h3>
+  <h3 align="left">Tools/IDE/Code Editors:</h3>
   <img align="center" alt="Quyet-Pham-VisualStudio" height="40" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
-  <img align="center" alt="Quyet-Pham-VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Quyet-Pham-VScode" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
   <img align="center" alt="Quyet-Pham-Eclipse" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
 </div>
   
