@@ -11,22 +11,25 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h3 align="left">Languages:</h3>
+  <h3 align="left">Programing Languages:</h3>
 
-  <img align="center" alt="Quyet-Pham-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Quyet-Pham-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Quyet-Pham-Cplusplus" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png">
+  <img align="center" alt="Quyet-Pham-Java" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
   <img align="center" alt="Quyet-Pham-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Quyet-Pham-NodeJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Quyet-Pham-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <h3 align="left">Technologies:</h3>
+  
+  <img align="center" alt="Quyet-Pham-NodeJs" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
+  <img align="center" alt="Quyet-Pham-NodeJs" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
+  
   <h3 align="left">OS:</h3>
   <img align="center" alt="Quyet-Pham-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
-  <h3 align="left">Database:</h3>
+  <h3 align="left">Databases:</h3>
   <img align="center" alt="Quyet-Pham-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <h3 align="left">Tools Code:</h3>
+  <h3 align="left">Tools:</h3>
   <img align="center" alt="Quyet-Pham-VisualStudio" height="30" width="40" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
   <img align="center" alt="Quyet-Pham-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-
+  <img align="center" alt="Quyet-Pham-Eclipse" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png">
 </div>
   
   ##
