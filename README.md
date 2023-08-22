@@ -44,7 +44,7 @@
 ## My Awards:
 I Achieved a top 10 position along with team members from **"Task Cafe"** at the Unihack 2023 - a hackathon contest organized by **Google Developer Student Club - Danang University of Science and Technology** with the product **"Social networking platform connecting people who are interested or have a desire to clean the environment."**
 
-More Information: <a href = "https://www.facebook.com/gdsc.dut/posts/pfbid0fh2cEwYQXmJViH8jrsKSQ2KMzYkkgaQUCQCkXx9RsdevsBbpZ1tFdDu68jVfVwbpl">click here</a>
+More Information: <a href = "https://www.facebook.com/gdsc.dut/posts/pfbid0fh2cEwYQXmJViH8jrsKSQ2KMzYkkgaQUCQCkXx9RsdevsBbpZ1tFdDu68jVfVwbpl" target="_blank">click here</a>
 <img src = "https://firebasestorage.googleapis.com/v0/b/todolist-d089f.appspot.com/o/Anh%20Quyet.jpg?alt=media&token=53d90dcd-d599-45e7-b4f9-2b585b99c096">
 
 
