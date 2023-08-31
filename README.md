@@ -20,24 +20,28 @@
  
 </div>
 
-## My Skills
+## My Tech Stack:
  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
  
 <img src = "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src = "https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src = "https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"> 
+<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src = "https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"> <img src = "https://img.shields.io/badge/Typeform-262627.svg?style=for-the-badge&logo=Typeform&logoColor=white">
  
- <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+ 
 
 
 ## Design Tools that I Use:
 <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<details>
+  <summary><b>My Awards</b></summary>
 
-## My Awards:
+## Unihack 2023:
 I Achieved a top 10 position along with team members from **"Task Cafe"** at the Unihack 2023 - a hackathon contest organized by **Google Developer Student Club - Danang University of Science and Technology** with the product **"Social networking platform connecting people who are interested or have a desire to clean the environment."**
 
 More Information: <a href = "https://www.facebook.com/gdsc.dut/posts/pfbid0fh2cEwYQXmJViH8jrsKSQ2KMzYkkgaQUCQCkXx9RsdevsBbpZ1tFdDu68jVfVwbpl" target="_blank">click here</a>
 <img src = "https://firebasestorage.googleapis.com/v0/b/todolist-d089f.appspot.com/o/Anh%20Quyet.jpg?alt=media&token=53d90dcd-d599-45e7-b4f9-2b585b99c096">
+
+</details>
 
 
 
