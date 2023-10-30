@@ -32,6 +32,8 @@
 
 ## Design Tools that I Use:
 <img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
+## Awards
 <details>
   <summary><b>My Awards</b></summary>
 
