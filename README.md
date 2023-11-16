@@ -35,7 +35,7 @@
 
 ## Awards
 <details>
-  <summary><b>My Awards</b></summary>
+  <summary><b>Unihack 2023</b></summary>
 
 ## Unihack 2023:
 I Achieved a top 10 position along with team members from **"Task Cafe"** at the Unihack 2023 - a hackathon contest organized by **Google Developer Student Club - Danang University of Science and Technology** with the product **"Social networking platform connecting people who are interested or have a desire to clean the environment."**
