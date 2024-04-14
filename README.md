@@ -1,17 +1,27 @@
+
+
 <h1 align="center">Hi there 👋, I'm Anh-Quyet Pham</h1>
 
 <div align="center">
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/phamanhquyet">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamanhquyet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamanhquyet&layout=compact&langs_count=8&theme=dracula"/>
+<div style="display: flex; flex-dỉrection: row">
+  <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phamanhquyet&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    </div>
+    <div>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamanhquyet&layout=compact&theme=tokyonight"/>
+    </div>
+  </div>
+  
 </div>
+
+
     
 ## You Can Contact Me At:
- 
 <div> 
   <a href = "mailto:phamanhquyet.work@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/phamanhquyet/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
